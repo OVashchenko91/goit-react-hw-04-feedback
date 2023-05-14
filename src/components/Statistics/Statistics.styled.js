@@ -19,7 +19,7 @@ export const Li = styled.li`
 export const P = styled.p`
     display: flex;
     justify-content: center;
-    background-color: rgb(133, 155, 182);
+    background-color: rgb(0, 188, 212);
     //width: 100%;
     box-sizing: border-box;
     gap: 25px;
