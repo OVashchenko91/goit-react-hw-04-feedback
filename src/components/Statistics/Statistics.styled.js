@@ -31,7 +31,7 @@ export const P = styled.p`
 export const Div = styled.div`
     display: flex;
     justify-content: space-around;
-    background-color: rgb(133, 155, 182);
+    background-color: rgb(0, 188, 212);
     width: 100%;
     box-sizing: border-box;
     gap: 25px;
