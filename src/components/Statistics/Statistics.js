@@ -2,6 +2,7 @@ import PropTypes from 'prop-types';
 import { Ul, Li, P, Div } from './Statistics.styled';
 
 export function Statistics({good, neutral, bad, total, positivePercentage}) {
+    
     return(
         <>
             <Ul>
@@ -21,6 +22,4 @@ Statistics.propTypes = {
     good: PropTypes.number, 
     neutral: PropTypes.number, 
     bad: PropTypes.number,
-    total: PropTypes.number,
-    positivePercentage: PropTypes.number,
 }
